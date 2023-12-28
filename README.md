@@ -14,5 +14,4 @@ run:
 
     npm i express
 
-
-![dino_game](https://github.com/jonorex/dino_game_AI_genetic_algorithm/dino_game.gif)
+![me](https://github.com/jonorex/dino_game_AI_genetic_algorithm/blob/main/dino_game.gif)
